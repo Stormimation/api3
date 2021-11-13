@@ -1,1 +1,12 @@
-
+[
+  {
+    "rut": "20533298-7",
+    "nombre": "Felipe",
+    "apellido": "Bazares"
+  },
+  {
+    "rut": "6491517-7",
+    "nombre": "Elvis",
+    "apellido": "Andrade"
+  }
+]
